@@ -8,4 +8,4 @@ facebook_type:
 facebook_image: /images/comics/lfg-page-1.png
 ---
 
-{% include figure.html src="lfg-page-1.jpg" alt="LFG Page 1" %}
+{% include figure.html src="lfg-page-1.png" alt="LFG Page 1" %}
