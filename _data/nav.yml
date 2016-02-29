@@ -5,11 +5,11 @@
   href: "/characters/"
 
 - title: "archives"
-  href: "/a-fistful-of-lunars/"
+  href: "/lfg/"
 
 - title: "about"
   href: "/about/"
-  
+
 - title: "documentation"
   subcategories:
     - subtitle: "basics"
@@ -34,10 +34,10 @@
       subhref: "/documentation/configuration.html"
     - subtitle: "deployment"
       subhref: "/documentation/deploy.html"
-      
+
 - title: "external"
   external: "https://www.gumroad.com/shamsee"
-  
+
 - title: "store"
   external-subcategories:
     - subtitle: "Gumroad"
